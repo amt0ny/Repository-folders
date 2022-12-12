@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Nov 24 17:22:19 IST 2022
+twilio-9.1.3-sources.jar>central=
+twilio-9.1.3.jar>central=
+twilio-9.1.3.pom>central=

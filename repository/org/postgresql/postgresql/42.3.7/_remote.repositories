@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Oct 25 15:39:09 IST 2022
+postgresql-42.3.7-sources.jar>central=
+postgresql-42.3.7.pom>central=
+postgresql-42.3.7.jar>central=
